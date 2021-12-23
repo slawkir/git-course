@@ -1,2 +1,4 @@
-namespace Name {}
-publis string main [args ]
+namespace Name 
+{
+}
+static void Main(string[] args)
